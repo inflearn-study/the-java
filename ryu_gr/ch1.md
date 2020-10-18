@@ -3,10 +3,10 @@
 ## section 1
 
 
-![jdk](https://user-images.githubusercontent.com/38341106/95930175-d0c08980-0e00-11eb-9c9a-38b29974dff9.png)
 
+<img src = "https://user-images.githubusercontent.com/38341106/95930175-d0c08980-0e00-11eb-9c9a-38b29974dff9.png" width="70%">
 
-
+#
 - 자바  
     - 프로그래밍 언어    
     
@@ -42,9 +42,11 @@
 
 
       
-  ![jvm](https://user-images.githubusercontent.com/38341106/95929948-3bbd9080-0e00-11eb-965e-06cf9eb7f133.png)
+ 
+   <img src = "https://user-images.githubusercontent.com/38341106/95929948-3bbd9080-0e00-11eb-965e-06cf9eb7f133.png" width="70%">
+   
 
-
+ #
     - 클래스 로더    
         - 로딩 : 클래스 읽어오는 과정
         
@@ -83,7 +85,10 @@
 #    
 ##  section 3    
 
-![클래스 로더](https://user-images.githubusercontent.com/38341106/96198845-de0c7e00-0f90-11eb-8655-fed2863bbc2c.png)
+<img src = "https://user-images.githubusercontent.com/38341106/96198845-de0c7e00-0f90-11eb-8655-fed2863bbc2c.png" width="70%">
+
+#
+
 
 - 로딩
     - 3개의 계층 구조 
