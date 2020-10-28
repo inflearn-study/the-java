@@ -9,7 +9,7 @@
 프록시 패턴 
 
 #
-<img src = "https://user-images.githubusercontent.com/38341106/97080007-46afc680-1633-11eb-80ea-4ca52a256c5d.png" width="70%">
+<img src = "https://user-images.githubusercontent.com/38341106/97080007-46afc680-1633-11eb-80ea-4ca52a256c5d.png" width="70% ">
 
 #
     - 리얼 서브젝트 깔끔하게 하기위해. 
@@ -36,6 +36,7 @@
     
     - 가능한 인스턴스 사용
     
+
 
 
 
